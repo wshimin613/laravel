@@ -79,7 +79,7 @@ return [
     | to any of the locales which will be supported by the application.
     |
     */
-
+    //zh-Hant-TW
     'locale' => 'en',
 
     /*
@@ -92,7 +92,7 @@ return [
     | the language folders that are provided through your application.
     |
     */
-
+    //zh-Hant-TW
     'fallback_locale' => 'en',
 
     /*
